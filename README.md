@@ -34,3 +34,9 @@ allows the manager to post available rooms in the system. Customers can view and
 room online. Admin can either approve or disapprove the customer's booking request.
 
 ![DBMS3](https://github.com/ShwetaManyam/HotelManagementSystem/assets/97036856/a431e0bc-592d-4ce2-a812-f5bcf11a16b4)
+
+![DBMS4](https://github.com/ShwetaManyam/HotelManagementSystem/assets/97036856/81be8d02-f704-48da-a6e1-927c682b58ce)
+
+![DBMS6](https://github.com/ShwetaManyam/HotelManagementSystem/assets/97036856/529b1dc3-e54b-4e3e-9bf6-f4ebd5e06f5f)
+
+![DBMS5](https://github.com/ShwetaManyam/HotelManagementSystem/assets/97036856/6884a0f5-ca58-4440-ad4f-52de2a456651)
