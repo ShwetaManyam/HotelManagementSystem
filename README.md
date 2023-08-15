@@ -32,3 +32,5 @@ needs of the customers when he goes to the hotel. The hotel management project p
 room booking, staff management and other necessary hotel management features. The system 
 allows the manager to post available rooms in the system. Customers can view and book a 
 room online. Admin can either approve or disapprove the customer's booking request.
+
+![DBMS3](https://github.com/ShwetaManyam/HotelManagementSystem/assets/97036856/a431e0bc-592d-4ce2-a812-f5bcf11a16b4)
